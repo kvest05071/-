@@ -22,6 +22,4 @@
 
 ***git diff experimental***
 
-![repository](./img/diff.jpg)
-
 Источник: https://habr.com/ru/post/60347/
